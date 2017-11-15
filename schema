@@ -1,0 +1,8 @@
+s,schema1,
+t,tabla1,
+t,tabla2,
+c,columna1, int, tabla1,
+c,columna2,int,tabla2,
+p,columna2,int,tabla2,
+f,columna2,int,tabla2,tabla1
+
